@@ -1,7 +1,7 @@
 --- 
 layout: base-layout.njk 
 --- 
-# About this blog post
+# About this blog post man
   
 This blog was created using the Static Site Generator [Eleventy](https://www.11ty.io/) (aka 11ty).
 New posts can quickly and easily be added to this blog just by adding new Markdown files.
