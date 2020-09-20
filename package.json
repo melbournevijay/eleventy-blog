@@ -1,7 +1,7 @@
 {
   "name": "eleventy-blog",
   "version": "1.0.0",
-  "description": "An example blog site using Eleventy that covers fundamental functionality",
+  "description": "An example blog site using Eleventy on Github Pages",
   "scripts": {
     "build": "npx eleventy",
     "serve": "npx eleventy --serve",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JonUK/eleventy-blog.git"
+    "url": "git+https://github.com/melbournevijay/eleventy-blog.git"
   },
-  "author": "Jon Keeping",
+  "author": "Vijay Rudraraju",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/JonUK/eleventy-blog/issues"
+    "url": "https://github.com/melbournevijay/eleventy-blog/issues"
   },
-  "homepage": "https://github.com/JonUK/eleventy-blog#readme",
+  "homepage": "https://github.com/melbournevijay/eleventy-blog#readme",
   "devDependencies": {
     "@11ty/eleventy": "^0.8.3",
     "jest": "^26.0.1",
